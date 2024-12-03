@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 
 public class LoginService {
     // Ensure these values match your actual database configuration
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/a2";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/softwaretesting";
     private static final String DB_USER = "testuser";
     private static final String DB_PASSWORD = "testpass";
 
